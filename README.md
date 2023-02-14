@@ -1,5 +1,5 @@
 # eversoul
-a tool for eversoul
+A tool for eversoul
 
 How to use:
 ```
